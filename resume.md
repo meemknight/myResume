@@ -45,7 +45,7 @@ Step IT Academy
 	
 # Projects
 
-### [GL3D](https://github.com/meemknight/gl2d)
+### [GL3D](https://github.com/meemknight/gl3d)
 
 Single header 3D CPP library written from scratch with opengl.
 Features: PBR deferred rendering with subscattered immage based lighting, model loading, animations, shadows (cascaded shadows), bloom, FXAA, HDR, ACES tonemapping, Adaptive resolution.
@@ -71,24 +71,31 @@ Features: Basic chunk system trees biomes and save system.
 A cheat engine for windows and linux.
 Features: Graphical interface made with imgui, open processes, search their memory and modify it.
 
+### [MidnightArrow](https://wuxia.itch.io/midnight-arrow-demo)
+
+The game that I am currently working at. I'm planning to release it on Seam.
+
 </br>
 
 # Awards and other activities
 
+
+2021 - Devhacks - Romania - <div class = "rightAlign">4th</div>
+
 2021 - InfoEducatie National Contest Judge - Romania
 
 
-2019 - Devhacks - Romania - 1st
+2019 - Devhacks - Romania - <div class = "rightAlign">1st</div>
 
 2019 - IV European Conference of Research Area of CHR - Bolognia
 
-2019 - InfoEducatie National Contest - Romania - 2nd
+2019 - InfoEducatie National Contest - Romania - <div class = "rightAlign">2nd</div>
 
-2019 - JA Company of the Year National Final - Romania - 1st
+2019 - JA Company of the Year National Final - Romania - <div class = "rightAlign">1st</div>
 
-2019 - JA Company of the Year International Final - France - participation
+2019 - JA Company of the Year International Final - France - <div class = "rightAlign">participation</div>
 
-2019 - Gamecelerator 6.0 - Romania - 2nd
+2019 - Gamecelerator 6.0 - Romania - <div class = "rightAlign">2nd</div>
 
 
 2018 - GREPIT - Romania - 3rd
@@ -98,23 +105,31 @@ Features: Graphical interface made with imgui, open processes, search their memo
 
 
 <style>
+
+* {
+	line-height: normal;
+}
+
 #col-1 {
 	position: relative;
 	width: 50%;
 	float: left;
-	height: 100%;
+	height: 90%;
 	z-index: 1010101010;
 	background-color: white;
-
 }
 
 #col-2 {
 	position: relative;
 	width: 50%;
 	float: left;
-	height: 100%;
+	height: 90%;
 	z-index: 1010101010;
 	background-color: white;
-
 }
+
+.rightAlign{
+	text-align: right;
+}
+
 </style>
